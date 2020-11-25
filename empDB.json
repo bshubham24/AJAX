@@ -11,19 +11,29 @@
       "id": 2
     },
     {
-      "name": "Ramos",
-      "salary": "700000",
-      "id": 3
-    },
-    {
-      "name": "Rohan",
-      "salary": "50000",
-      "id": 4
-    },
-    {
       "name": "Mario",
       "salary": "100000",
       "id": 5
+    },
+    {
+      "name": "Hinata",
+      "salary": "500000",
+      "id": 6
+    },
+    {
+      "name": "Hinata",
+      "salary": "500000",
+      "id": 7
+    },
+    {
+      "name": "Hinata",
+      "salary": "500000",
+      "id": 8
+    },
+    {
+      "name": "Hinata",
+      "salary": "500000",
+      "id": 9
     }
   ]
 }
